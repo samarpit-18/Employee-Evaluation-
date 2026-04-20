@@ -21,6 +21,12 @@ employee_perf_system/
 ```
 
 ---
+##create a virtual environment
+### step1: write this command in terminal 
+1. python -m venv .env
+   ### step2: .env/Scripts/activate
+
+**after completing the above process then only start below**
 
 ## ⚡ Quick Start
 
